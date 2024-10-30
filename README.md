@@ -1,416 +1,193 @@
-## `montanatech`
-<div ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=blue&center=true&width=900&height=100&lines=Its MONTANA-MD;Multi+Device+Whatsapp+Bot;Developed+By+MONTANA" alt="Typing SVG" /></a>
+#### *L O U  M D WHATSAPP BOT* 
+#### *A SIMPLE MULTI-DEVICE BOT CREATED FOR WHATSAPP<br><h1>*
+
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+ <div ="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=blue&center=true&width=900&height=100&lines=Its LOU-MD;Whatsapp+MD+Bot;Developed+By+MAGICAL-K" alt="Typing SVG" /></a>
   
-  
+
+<h1 align="center">L O U M D B O T<br></h1>
 <p align="center">
-  <a href="">
-    <img alt=Support height="300" src="https://th.bing.com/th/id/OIP.gO06l1zpeCa8hQcKt9EsRAHaEK?w=310&h=180&c=7&r=0&o=5&pid=1.7"> 
+<img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7" height="500" , width="800"/>
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<p align="center">
+L O U  𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/DARK-MODER" target="_blank">DARK-MODER</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+</p>
+
+
+
+------
+
+# ```Bot Info```
+<p align="center">
+<a href="https://github.com/DARK-MODER/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARK-MODER?color=red&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARK-MODER/Lou-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARK-MODER/Lou-md?color=red&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DARK-MODER/Lou-md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DARK-MODER/Lou-md"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/DARK-MODER/Lou-md/"><img title="Size" src="https://img.shields.io/github/repo-size/DARK-MODER/Lou-md?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2DARK-MODER%2FLou-md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/DARK-MODER/Lou-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
     </p>
-    <h1 align="center">MONTANA-1.O<br></h1>
-    
-   </a>
-</p>
-  
-<p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/Montna-md-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/montanatech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/montanatech?label=Followers&style=social"></a>
-<a href="https://github.com/montanatech/montana-md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/montanatech/montana-md-?&style=social"></a>
-<a href="https://github.com/montanatech/montana-md-/network/members"><img title="Fork" src="https://img.shields.io/github/forks/montanatech/montana-md-?style=social"></a>
-<a href="https://github.com/montanatec/montana-md-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/montanatech/montana-md-?label=Watching&style=social"></a>
-</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{MAGICAL-KX}/count.svg" alt="MONTANA :: Visitor's Count" /></p>
+-------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-</br>
+## ```Connect With Me```
 
-<h2 align="center"> Star the repo if u like it🌟
-</h2>
+ - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://wa.me/263789432940) ***(CONTACT OWNER)***
+ - 
+## ```PLATFORMSS```
 
-## `Notice`o More orking` Fine And Have Many `Error
-<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-You Guyz Can Try My Other Bots Like ***montanatech*** & ***MONTANA-V1*** Which Have Many `Advance Features` Then This Bot
-<br>
-
-[*lou-md*](https://github.com/MAGICAL-KX/Lou-md)
-<br>
-[*MAGICAL*](https://github.com/MAGICAL-KX/Lou-md)
-<br>
-
----
-## 🛠️ `Installation Procedure`
+   - [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dark-moder) ***(profile)***
+   - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DARK-MODER/Lou-md) ***(repository)***
+   - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy) ***(group)***
+   - [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V) ***(channel)***
+   - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Kentonx-tech)
+   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Kentonx64)
 
 
-❏FORK THE REPOSITORY 
-  <a href="https://github.com/montanatech/montana-md-/fork" target="_blank">
-  <img src="https://img.shields.io/badge/FORK montana-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
+# Setup For Deployment 👇
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+***([`Fork REPO`](https://github.com/DARK-MODER/LOU-MD/Fork))***
 
-❏GET SESSION ID (MONTANA MD SESSION ID) 
-<a href="https://montana-tech-and-mr-ntando-ofc.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/SCAN QR-pink?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
+## `Generate Pair Code For Session`
 
+***([`GET CREDS FILE`](https://bots-official-creds.onrender.com))*** 
 
+***([`SUBSCRIBE YT`](https://youtube.com/@KentonX-Tech))***
 
+***([`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn))***
 
-❑GET SESSION ID (MONTANA)
-<a href="https://montana-tech-and-mr-ntando-ofc.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/SCAN QR-purple?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
-</a>
+***([`HOW TO AUTO DEPLOY DIRECT ON GITHUB`](https://youtu.be/-aOIDVebImo?si=TTl9GayCy3VD5z85))***
 
+***([`HOW TO RESTART WHEN THE BOT GOES OFF`](https://youtube.com/shorts/o0uLn17pRRs?si=i4VVlhSZLoFdk94u))***
 
-    
+# Installments
+## Heroku Buildpack
+```bash
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+*Add your Creds.json to Shield file
+* Create a new app at [Heroku](heroku.com)
+* Add Build packs
+* Connect your heroku with your github
+* Locate LOU-MD
+* Now deploy.
+* Start the Worker
+* Enjoy the Bot.
 
+## DEPLOY TO RENDER
 
+ ★ Register To Render 
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
-## `Features`
-
-- 275+ Awesome Commands
-- 24/7 Support
-- Simple Commands
-- Easy Deploy
-- Anime Themes
-- Best for GroupWorks
-- Make your boring whatsapp fun
-
-
-
-
-## `MONGODB URL`
-
-
-●.  ***Get a Mongodb urL from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
-
-●.  ***Get a Mongodb urL from [railway.app](https://railway.app).***
-
-
+★ Now Deploy
+    <br>
+<a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
 ```
-mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
+## `For Termux/Ssh/Ubuntu`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/DARK-MODER/LOU-MD
+cd Shield Hero Bugs
+yarn install
+npm start
 ```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `MONGODB_URL` | `string` | **Required**. Your Bot Cannot run without this|
-
-## `Installation`
-
-1.Replit Installation
-
-Paste This on the replit shell to run the Bot
-
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/DARK-MODER/LOU-MD
+cd LOU-MD
+npm start
 ```
-npm install
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-After this fill the vars by your own information and paste this JSON to your Replit shell
-
-```
-{
-  "SESSION_ID": "ID-Here",
-  "OWNER_NUMBER": "263xxxxxxxxxx",
-  "OWNER_NAME": "MAGICAL-KX",
-  "OPENAI_API_KEY": "null",
-  "MONGODB_URI": "required",
-  "PACK_INFO": "WABOT;Xlicon",
-  "PREFIX": "."
-   
-}
-```
-
-
-2.Okteto Installation
-Go to Okteto
-
-
-```
-Login with your github
-Click Launch Dev Environment
-Choose your repo
-```
-
-
-3.Heroku Installation 
-[HEROKU Tutorial](https://youtu.be/hH2qZyUjuF4?si=vqpl-caoBSkpcVNH)
-
-
-4.Deploy On Vps
-[Deploy on VPS or PC.](https://github.com/salmanytofficial/XLICON-MD/blob/main/deploy-on-vps.md)
-
-
-  ........................................................
-  
-  
-  
-  ## `DEPLOYMENTS`
-  
-  
-  
-  <details close>
-<summary>Click to choose your favourite platform to Deploy</summary>
+<div align="center">
+## AUTHORS
  
-<br><br>   
-   
-<h4 align="center"> Deploy on Repl.it
-</h4>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<p align="center" >
-    <a href="https://repl.it/github/montanatech/montana-md-">
-    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
-    </a>
-</p>
+ | [![BOTS-OFFICIAL](https://github.com/BOTS-OFFICIAL.png?lenght=50width=50)](https://github.com/BOTS-OFFICIAL)|
+|----|
+| [BOTS-OFFICIAL ](https://github.com/BOTS-OFFICIAL) |
+|  ACCOUNT 1 |
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <br>
- 
-<h4 align="center"> Deploy on CodesSpace
-</h4>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-</p>
+| [![DARK-MOER](https://github.com/DARK-MODER.png?lenght=50width=50)](https://github.com/DARK-MODER)|
+|----|
+| [MAGICAL-KX ](https://github.com/DARK-MODER) |
+|  ACCOUNT 2|
 
-<p align="center" >
-    <a href="https://github.com/codespaces/new">
-    <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
-    </a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+</div>
 
-</p>
+##
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
+### `Repository Details:`
 
+<details>
+  <summary>Click here to view</summary>
 
-
-<br>
- 
-<h4 align="center"> Deploy on Heroku
-</h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/montanatech/montana-md-">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
-    </a>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-
-<br>
- 
-<h4 align="center"> Deploy On Koyeb
-</h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/salmanytofficial/XLICON-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=MONTANA;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
-    <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="170px" alt="Deploy on Koyeb" >
-    </a>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-<br>
-
-
-<h4 align="center"> Deploy on RailWay
-</h4>
-  
-<p align="center">
-    <a href="https://railway.app/new">
-    <p align="center"><a href="https://railway.app/new"> <img src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<div align="center">
     
-</p>
+| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
+|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
+| [![Owner](https://img.shields.io/badge/Author-DARKMODER-red.svg)](https://github.com/DARK-MODER/)  | [![Repository](https://img.shields.io/badge/Repo-LOUMD-red.svg)](https://github.com/DARK-MODER/LOU-MD) | [![GitHub forks](https://badgen.net/github/forks/DARK-MODER/LOU-MD/)](https://GitHub.com/DARK-MODER/LOU-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/DARK-MODER/LOU-MD)](https://GitHub.com/DARK-MODER/Lou-md/stargazers/)| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/DARK-MODER/LOU-MD.svg)](https://github.com/DARK-MODER/LOU-MD/blob/master/LICENSE) 
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
+| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
+|---------------------|---------------------|---------------------|
+| [![GitHub release](https://img.shields.io/github/release/DARK-MODER/LOU-MD.svg)](https://GitHub.com/DARK-MODER/LOU-MD/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/DARK-MODER/LOU-MD)](https://GitHub.com/DARK-MODER/LOU-MD/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/DARK-MODER/LOU-MD/graphs/commit-activity) |
 
-</p>
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&DARK-MODER/LOU-MD)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=DARK-MODER/LOU-MD)
 
-
-
-
-<br>
-
-
-<h4 align="center"> Deploy on Okteto
-</h4>
-  
-<p align="center">
-    <a href="https://cloud.okteto.com">
-    <img src="https://okteto.com/develop-okteto.svg" alt="Deploy on Okteto" width="170px">
-    </a>
-    
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-
-</p>
-
-
-
-<br>
-
-<h4 align="center"> Deploy on Mogenius
-</h4>
-  
-<p align="center">
-    <a href="https://studio.mogenius.com/">
-    <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
-    </a>
-    
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on Uffizzi
-</h4>
-  
-<p align="center">
-    <a href="https://www.uffizzi.com/">
-    <img src="https://i.ibb.co/Y29Kv4X/Screenshot-195.png" alt="Deploy on Uffizzi" width="125px">
-    </a>
-    
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on BoxMineWorld
-</h4>
-  
-<p align="center">
-    <a href="https://dash.boxmineworld.com/">
-    <img src="" alt="Deploy on Boxmineworld" width="175px">
-    </a>
-    <br>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
+</div>
 </details>
 
-<br>
 
-
-
-
-## `Authors`
-
-<div align="center"
-
-
-| [![POPKID](https://github.com/DARK-MODER.png?lenght=50width=50)](https://github.com/DARK-MODER) |
-|----|
-| [ POPKID ](https://github.com/popkid-md) |
-|  OWNER |
-
-
-<br>
-
-  | [![DARK-MODER](https://github.com/BOTS-OFFICIAL.png?lenght=100width=100)](https://github.com/BOTS-OFFICIAL) |
-|----|
-| [BOTS-OFFICIALE](https://github.com/BOTS-OFFICIAL) |
-|   OTHER STAFF, |
-  </div>
-  
-
-
-
-<p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BSFZGh0YT3K9NHDt4UJmZy" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-<a aria-label="Join our chats" href="https://wa.me/263789432940?text=Hi!! Ano Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
-
-**Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ano">
-  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
-</a>
-
-
-</br>
-
-
-<h2 align="center">  Reminder
-</h2>
-   
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
- 
-
-
-
-</br></br>
-<h1 align="left">  ✨Spacial Thanks To🎯
-</h1>
-
-* [`🎐 MAGICAL-KX`](https://github.com/MAGICAL-KX) ***For  ALL BOT STAFF***
-  
-* 
-
-
----
-
-</p>
-<h1 align="center"> Thanks To  MAGICAL-KX
-</h1>
-
- <br><br>
-
-
-
+ ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
