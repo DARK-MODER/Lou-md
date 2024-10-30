@@ -185,6 +185,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
  ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉ 
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=TIMES+NEW+ROMAN&size=24&pause=10000&color=F72C86&multiline=true&width=435&lines=I+THANK+YOU+FOR+VISITING+LOU+MD;REPO+ON+GITHUB;DON'T+FORGET+TO+STAR+REO;ITS+YOU+BOY+MAGICAL+KX" alt="Typing SVG" /></a>
+ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
