@@ -10,7 +10,7 @@
 
 <h1 align="center">L O U M D B O T<br></h1>
 <p align="center">
-<img src="https://th.bing.com/th/id/OIP.WzoDCICKCgh0i4CstySWZAAAAA?w=330&h=181&c=7&r=0&o=5&pid=1.7" height="500" , width="800"/>
+<img src="https://th.bing.com/th/id/OIP.DupVs8PNdKvl-UqC3mO9KwHaF7?rs=1&pid=ImgDetMain" height="500" , width="800"/>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
